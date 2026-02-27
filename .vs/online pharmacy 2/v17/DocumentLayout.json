@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\nav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nav.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\nav.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nav.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\upload_pre.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:upload_pre.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\action\\upload_pre.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:action\\upload_pre.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\customer_support.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:customer_support.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\delary_account.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:delary_account.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\aboutus.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aboutus.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\remove_from_cart.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:remove_from_cart.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nav.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\nav.css",
+              "RelativeDocumentMoniker": "nav.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\nav.css",
+              "RelativeToolTip": "nav.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T18:15:33.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\index.php",
+              "RelativeDocumentMoniker": "index.php",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\index.php",
+              "RelativeToolTip": "index.php",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAAG0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-09T05:27:24.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customer_support.html",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\customer_support.html",
+              "RelativeDocumentMoniker": "customer_support.html",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\customer_support.html",
+              "RelativeToolTip": "customer_support.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-08T11:25:29.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "upload_pre.php",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\action\\upload_pre.php",
+              "RelativeDocumentMoniker": "action\\upload_pre.php",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\action\\upload_pre.php",
+              "RelativeToolTip": "action\\upload_pre.php",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-08T11:15:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nav.php",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\nav.php",
+              "RelativeDocumentMoniker": "nav.php",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\nav.php",
+              "RelativeToolTip": "nav.php",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABEAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-08T05:38:24.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "remove_from_cart.php",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\remove_from_cart.php",
+              "RelativeDocumentMoniker": "remove_from_cart.php",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\remove_from_cart.php",
+              "RelativeToolTip": "remove_from_cart.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-08T05:24:39.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "aboutus.php",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\aboutus.php",
+              "RelativeDocumentMoniker": "aboutus.php",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\aboutus.php",
+              "RelativeToolTip": "aboutus.php",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-08T05:22:14.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "upload_pre.php",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\upload_pre.php",
+              "RelativeDocumentMoniker": "upload_pre.php",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\upload_pre.php",
+              "RelativeToolTip": "upload_pre.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-05-08T05:05:29.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "delary_account.html",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\delary_account.html",
+              "RelativeDocumentMoniker": "delary_account.html",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\IWT\\2\\online pharmacy 2\\delary_account.html",
+              "RelativeToolTip": "delary_account.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-08T11:21:05.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
