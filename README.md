@@ -40,4 +40,4 @@ Contributing
 - Fork the repo, make changes, and submit pull requests. For schema or connection changes, document required steps in this README.
 
 License
-- No license specified. Add a `LICENSE` file if you plan to publish this project publicly.
+- No license specified.
