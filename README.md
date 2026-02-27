@@ -3,15 +3,17 @@ Online pharmacy web app using PHP &amp; MySQL with product categories, user acco
 
 # Online Pharmacy Web Application
 
-A small PHP & MySQL based online pharmacy web application that lets users browse categorized product pages, register and log in, add items to a shopping cart, and place orders. The project includes account management, order handling under the `action/` folder, and a provided SQL dump to create the database schema.
+This is a small PHP & MySQL based online pharmacy web application that lets users browse categorized product pages, register and log in, add items to a shopping cart, and place orders. The project includes account management, order handling under the `action/` folder, and a provided SQL dump to create the database schema.
 
-Features
+
+Features:
 - Browse products and categories (e.g., Mother & Baby, Kids, Pet Care)
 - User registration, login, profile and password updates
 - Shopping cart: add, remove, view items and place orders
 - Admin/processing scripts in `action/` (register, login, order, upload, delete)
 
-Requirements
+
+##Requirements
 - PHP 7.4+ (or compatible) with `mysqli` or `pdo_mysql`
 - MySQL / MariaDB
 - A web server (Apache, Nginx) or PHP built-in server for local testing
